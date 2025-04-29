@@ -47,6 +47,6 @@ The MCP server exposes the following custom tools accessible via natural languag
 
 ## Links
 
-* **Demo Video:** [Link to your demo video - HIGHLY RECOMMENDED]
+* **Demo Video:** [https://x.com/eccentrichealer/status/1917301085548515488]
 * **Setup Instructions:** See [SETUP.md](SETUP.md)
 
