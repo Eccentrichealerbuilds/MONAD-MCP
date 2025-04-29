@@ -8,7 +8,7 @@ This guide explains how to set up the environment and configure Cursor IDE to ru
 * Python 3.11 or newer installed and available as `python3.11`
 * `pip` for Python 3.11
 * `git` (for cloning)
-* Cursor IDE ([https://cursor.sh/](https://cursor.sh/)) or potentially Claude Desktop
+* Cursor IDE ([https://cursor.sh/](https://www.cursor.com)) or potentially Claude Desktop
 * API Keys:
     * Zerion Developer API Key ([https://dev.zerion.io/](https://dev.zerion.io/))
     * Magic Eden Developer API Key ([https://docs.magiceden.io/reference/solana-api-keys](https://docs.magiceden.io/reference/solana-api-keys) - find EVM key process)
